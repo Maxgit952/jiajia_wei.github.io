@@ -14,3 +14,6 @@ title: jiajia's room
 
 # Your name to show in the footer
 author: jiajia
+
+# use a supported theme
+theme: minima
